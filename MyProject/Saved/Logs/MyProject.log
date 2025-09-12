@@ -1168,3 +1168,40 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.12-19.24.00:570][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 9.210294
 [2025.09.12-19.24.00:571][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1542370262
 [2025.09.12-19.24.00:571][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9.210294, Update Interval: 323.322845
+[2025.09.12-19.25.39:996][455]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.12-19.25.40:219][456]LogPSOHitching: Encountered 250 PSO creation hitches so far (71 graphics, 179 compute). 0 of them were precached.
+[2025.09.12-19.25.40:411][459]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.12-19.25.46:124][783]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2025.09.12-19.25.46:124][783]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2025.09.12-19.25.46:136][783]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Pawn_UAID_088FC3570E334E8E02_1116864175
+[2025.09.12-19.25.46:137][783]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Pawn_UAID_088FC3570E334E8E02_1116864175
+[2025.09.12-19.25.46:411][787]LogDerivedDataCache: C:/Users/Sergi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.12-19.25.53:693][208]Cmd: TRANSACTION UNDO
+[2025.09.12-19.25.53:693][208]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.12-19.25.54:305][224]Cmd: TRANSACTION UNDO
+[2025.09.12-19.25.54:305][224]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.12-19.25.54:723][247]Cmd: TRANSACTION UNDO
+[2025.09.12-19.25.54:723][247]LogEditorTransaction: Undo Move Elements
+[2025.09.12-19.25.55:080][268]Cmd: TRANSACTION UNDO
+[2025.09.12-19.25.55:080][268]LogEditorTransaction: Undo Create Actor
+[2025.09.12-19.25.59:641][507]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.09.12-19.25.59:641][507]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.09.12-19.25.59:643][507]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_088FC3570E334E8E02_1130379176
+[2025.09.12-19.25.59:644][507]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_088FC3570E334E8E02_1130379176
+[2025.09.12-19.26.04:441][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.12-19.26.04:602][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.12-19.26.04:620][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.09.12-19.26.04:638][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.09.12-19.26.04:659][769]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/C2/X5AXP1MXBPEHUJQDFCV3IJ
+[2025.09.12-19.26.04:659][769]LogSavePackage: Moving '../../../../../../Users/Sergi/OneDrive/Documents/Unreal Projects/GDWTUTORIAL/MyProject/Saved/X5AXP1MXBPEHUJQDFCV3IJ6470471E4A937B8B76952680D1F7A2F0.tmp' to '../../../../../../Users/Sergi/OneDrive/Documents/Unreal Projects/GDWTUTORIAL/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/C2/X5AXP1MXBPEHUJQDFCV3IJ.uasset'
+[2025.09.12-19.26.04:685][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.766 ms
+[2025.09.12-19.26.04:777][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.12-19.26.04:777][769]LogContentValidation: Enabled validators:
+[2025.09.12-19.26.04:777][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.12-19.26.04:777][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.12-19.26.04:777][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.12-19.26.04:777][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.12-19.26.04:777][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.12-19.26.04:777][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.12-19.26.04:779][769]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.09.12-19.26.04:809][769]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Sergi/OneDrive/Documents/Unreal Projects/GDWTUTORIAL/MyProject/Saved/SourceControl/UncontrolledChangelists.json
